@@ -1,0 +1,344 @@
+:root {
+  --top: #eeeeee;
+  --second: #c0c0c0;
+  --btn: #4a4a4a;
+  --border: #434343;
+  --field: #393939;
+  --low: #2e2e2e;
+
+  --link: #88aae5;
+  --hover: #eeeeee16;
+  --follow: #eeeeee2b;
+}
+
+span {
+  color: var(--top);
+}
+
+a {
+  color: var(--link);
+}
+
+h1 {
+  color: var(--top);
+}
+
+h2 {
+  color: var(--top);
+}
+
+h3 {
+  color: var(--top);
+}
+
+h4 {
+  color: var(--top);
+}
+
+div {
+  color: var(--top);
+  border-color: var(--border);
+}
+
+.gb_B>.gb_F {
+  fill: var(--top);
+}
+
+.gb_1c>svg {
+  fill: var(--top);
+}
+
+.notranslate>svg {
+  color: var(--top);
+}
+
+/* L1-Frame header */
+.pGxpHc>header {
+  background-color: var(--low);
+}
+
+/* L1-Frame header サイドメニュー */
+.pGxpHc>header>div>div>div {
+  background-color: var(--low);
+}
+
+/* サイドメニューのaリスト */
+.yJWPX {
+  color: var(--link);
+}
+
+/* L1-Frame 背景 */
+.zQTmif {
+  background-color: var(--low);
+}
+
+/* L2-Container 背景 */
+.ccvoYb {
+  background-color: var(--low);
+}
+
+/* textarea入力文字 */
+textarea.er8xn {
+  color: var(--top);
+}
+
+/* 出力文字 */
+span.ryNqvb {
+  color: var(--top);
+}
+
+/* 画面下部ボタン */
+div.ySES5 {
+  background-color: var(--btn);
+}
+
+/* 画面下部ボタン 文字 */
+div.TcXXXb {
+  color: var(--top);
+}
+
+/* L2-Container nav 不要なフェード*/
+.U0xwnf::after {
+  display: none;
+}
+
+/* L2-Container nav ボタン*/
+.U0xwnf>div>div>button {
+  color: var(--link);
+  border-color: var(--border);
+  background-color: var(--btn);
+}
+
+/* L2-Container nav ボタン文字*/
+.U0xwnf>div>div>button>span {
+  color: var(--link);
+}
+
+/* テキストモード以外 */
+c-wiz.MOkH4e>div>c-wiz {
+  background-color: var(--field);
+}
+
+/* L3-Module textarea */
+.n4sEPd>c-wiz {
+  border-color: var(--border);
+  background-color: var(--field);
+}
+
+/* textarea内、特定のa */
+.dWI6ed {
+  color: var(--link);
+}
+
+/* 入力方法を選択 */
+.ita-kd-dropdown-menu {
+  background-color: var(--btn);
+  border-color: var(--border);
+}
+
+.ita-kd-dropdown-menu>li:hover {
+  background-color: var(--hover);
+}
+
+.ita-kd-menuitem-hover {
+  background-color: var(--hover);
+}
+
+/* L4-Component textareaサジェスト */
+.KjuTac {
+  background-color: var(--btn);
+  outline-color: var(--border);
+}
+
+/* L5-Element textareaサジェスト */
+.Bcbxbe:hover {
+  background-color: var(--hover);
+}
+
+/* L5-Element textareaサジェスト */
+.uNr6ee {
+  color: var(--top);
+}
+
+/* L5-Element textareaサジェスト */
+.xUPQqb {
+  color: var(--second);
+}
+
+/* L3-Module セレクター 不要なフェード*/
+.X4DQ0::after {
+  display: none;
+}
+
+/* L3-Module 出力背景 */
+.QcsUad {
+  background-color: var(--btn);
+}
+
+/* 出力をhoverした時 */
+.ChMk0b:hover {
+  background-color: var(--follow);
+}
+
+/* 出力を選択状態にした時 */
+.C1N51c {
+  background-color: var(--follow);
+}
+
+/* 出力をhoverした時の入力側ハイライト */
+.cEWAef>.FwR7Pc {
+  background-color: var(--follow);
+}
+
+/* 出力選択状態のメニュー */
+.NWlwsb {
+  background-color: var(--low);
+}
+
+/* 出力選択状態のメニュー */
+.WtlSJf:hover {
+  background-color: var(--hover);
+}
+
+/* 出力選択状態のメニュー */
+.WtlSJf.KKjvXb {
+  background-color: var(--hover);
+}
+
+/* この翻訳を評価してください */
+.B2ZIJe {
+  background-color: var(--low);
+}
+
+/* この翻訳を共有 */
+.iRXyad {
+  background-color: var(--low);
+}
+
+/* L4-Component "その他の翻訳" */
+.hX7wnb {
+  background-color: var(--btn);
+  border-color: var(--border);
+}
+
+/* L4-Component "その他の翻訳"リスト */
+.hX7wnb>ol>div {
+  border-color: var(--border);
+}
+
+/* "その他の翻訳"の何かしら */
+.GAyS9e::after {
+  display: none;
+}
+
+/* L5-Element 出力意味ハイライト */
+.U8K5nb {
+  background-color: var(--hover);
+}
+
+/* 単語ポップアップメニュー */
+.K1puac>div {
+  background-color: var(--btn);
+}
+
+/* 単語ポップアップメニュー */
+.K1puac>div>span>div>button>div>svg {
+  fill: var(--top);
+}
+
+/* L0-Multilayer 履歴 */
+.vDGmEc>div {
+  background-color: var(--low);
+}
+
+/* 履歴 ケバブメニュー */
+.q6oraf {
+  background-color: var(--btn);
+}
+
+/* L0-Multilayer 辞書 */
+.d59UEf>div,
+.d59UEf {
+  background-color: var(--low);
+}
+
+/* 辞書 同義語 */
+span.wQegqc {
+  background-color: var(--btn);
+}
+
+/* 辞書 接尾辞 */
+.YdbIGb>div {
+  background-color: var(--btn);
+}
+
+/* L0-Multilayer 保存済み */
+.kmXzdf {
+  background-color: var(--low);
+}
+
+/* L0-Multilayer 保存済み */
+.B3AePc {
+  background-color: var(--low);
+}
+
+/* L0-Multilayer 設定 */
+.UQ5E0 {
+  background-color: var(--low);
+}
+
+/* 設定 ラジオボタン */
+.nxUPcd>div>.MlG5Jc>div>div>div {
+  border-color: var(--top);
+}
+
+/* L0-Multilayer 言語選択 */
+.bvzp8c {
+  border-color: var(--border);
+}
+
+/* 言語選択 リスト */
+.pEyuac>div {
+  background-color: var(--field);
+  border-color: var(--border);
+}
+
+/* 言語選択 input */
+.pEyuac>div>input {
+  background-color: var(--field);
+}
+
+/* 言語選択 hover */
+.F29iQc>span>div:hover {
+  background-color: var(--hover);
+}
+
+/* 不明 */
+.QcsUad>.GAyS9e {
+  display: none;
+}
+
+/* 不明 */
+.SMqeCb {
+  background-color: #ff00ff;
+}
+
+/* 不明 */
+.wkLVUc-LgbsSe {
+  background-color: #00ffff;
+}
+
+/* 不明 */
+.aqdrmf-rymPhb {
+  background-color: #ff0088;
+}
+
+/* 不明 */
+.Z5tPic {
+  background-color: #ff8800;
+}
+
+/* 不明 */
+.NBY4Kb {
+  background-color: #00ff88;
+}
